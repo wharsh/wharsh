@@ -1,5 +1,5 @@
 title: Harsh Wardhan
-description: Data Science Portfolio
 #logo : /assets/img/headshot.png
-#show_downloads: true
+#description: Data Science Portfolio #text below image
+#show_downloads: true 
 theme: jekyll-theme-minimal
