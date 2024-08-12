@@ -1,4 +1,4 @@
-# Data Scientist
+# Hi my name is Harsh but I am kind and polite.
 
 ### Eduaction
 Master's from University of Florida, Gainesville (2024)
