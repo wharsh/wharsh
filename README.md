@@ -2,7 +2,7 @@
 I am also a fan of Historical dramas
 ∴ THIS IS DataSparta!
 
-### Eduaction
+### Education
 Master's from University of Florida, Gainesville (2024)
 Bachelor's from Panjab University, Chandigarh (2012)
 
