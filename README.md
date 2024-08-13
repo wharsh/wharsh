@@ -1,23 +1,29 @@
 
 
 ### Education
--Master's from University of Florida, Gainesville (2024)
--Bachelor's from Panjab University, Chandigarh (2012)
+- Master's from University of Florida, Gainesville (2024)
+- Bachelor's from Panjab University, Chandigarh (2012)
 
 ### Work Experience
--Financial Data Analyst (2016-2021)
--Technical Support Executive (2012-2015)
+- Financial Data Analyst (2016-2021)
+- Technical Support Executive (2012-2015)
 
 ### Projects
--Data Scientist for UF Bootcamp
--Financial Database Manager for Association for Information Systems
+- Data Scientist for UF Bootcamp
+- Financial Database Manager for Association for Information Systems
 
 ### Relevant coursework: 
--ISM 6128-29:   Advanced System Design and Analysis,
--QMB 6358:      Statistical Analysis for Managerial Decisions, 
--QMB 6755-56: 	 Quantitative Analysis for Managers, 
--ISM 6423: 		   Data Analysis for Decision Support, 
--ISM 6405: 		   Business Intelligence
+Master of Information Systems and Operations Management
+- Advanced System Design and Analysis,
+- Statistical Analysis for Managerial Decisions, 
+- Quantitative Analysis for Managers, 
+- Data Analysis for Decision Support, 
+- Business Intelligence
 
+Bachelor of Chemical Engineering
+- Advanced Mathematics and Applied Physics
+- Biotechnolgy and Thermodynamics
+- Material Science and Energy Technology
+- Polymer Science and Engineering
 
  
