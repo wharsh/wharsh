@@ -1,6 +1,4 @@
-# Hi, my name is Harsh but I am kind and polite. 
-I am also a fan of Historical dramas
-∴ THIS IS DataSparta!
+
 
 ### Education
 -Master's from University of Florida, Gainesville (2024)
