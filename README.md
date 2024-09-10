@@ -15,7 +15,7 @@
 - Technical Support Executive (2012-2015)
 
 ### Projects
-- Data Scientist for UF Bootcamp
+- Data Scientist for UF sponsored bootcamp with Revenue Management Solutions LLC, Tampa FL
 - Financial Database Manager for Association for Information Systems
 
 ### Relevant coursework: 
