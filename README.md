@@ -11,11 +11,12 @@
 - Bachelor's from Panjab University, Chandigarh (2012)
 
 ### Work Experience
+- Data Science Intern (2024-Present)
 - Financial Data Analyst (2016-2021)
 - Technical Support Executive (2012-2015)
 
 ### Projects
-- Data Scientist for UF sponsored bootcamp with Revenue Management Solutions LLC, Tampa FL
+- Data Engineer for UF sponsored bootcamp with Revenue Management Solutions LLC, Tampa FL
 - Financial Database Manager for Association for Information Systems
 
 ### Relevant coursework: 
